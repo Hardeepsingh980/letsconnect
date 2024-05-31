@@ -2,7 +2,7 @@
 # Lets Connect
 [![MIT License](https://img.shields.io/github/license/Hardeepsingh980/letsconnect)](https://github.com/Hardeepsingh980/letsconnect/blob/master/LICENSE)
 ![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
-![version](https://img.shields.io/badge/version-0.1.5-blue)
+![version](https://img.shields.io/badge/version-0.1-blue)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![commits](https://img.shields.io/github/commit-activity/m/Hardeepsingh980/letsconnect)
 
